@@ -10,6 +10,7 @@ Also:
 
 # Resources
 **Read or watch:**
+
     * [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
     * [man uname](https://intranet.alxswe.com/rltoken/Z4MowYniH5YJoZo4jZgIBw) 
 
