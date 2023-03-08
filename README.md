@@ -10,10 +10,9 @@ Also:
 
 # Resources
 **Read or watch:**
-    * [Virtual machine][1]
-    * [man uname][2] 
-[1]:https://en.wikipedia.org/wiki/Virtual_machine
-[2]:https://intranet.alxswe.com/rltoken/Z4MowYniH5YJoZo4jZgIBw
+    * [Virtual machine][https://en.wikipedia.org/wiki/Virtual_machine]
+    * [man uname][https://intranet.alxswe.com/rltoken/Z4MowYniH5YJoZo4jZgIBw] 
+
 
 
 # Learning Objectives
